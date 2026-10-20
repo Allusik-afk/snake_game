@@ -1,6 +1,0 @@
-__pycache__/
-save.json
-save_backup.json
-highscore.txt
-error.log
-*.wav
